@@ -1,1 +1,1 @@
-# practise-machine-learning
+# practice-machine-learning
